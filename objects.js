@@ -9,3 +9,4 @@ const myPhone = {
 
 console.log('myPhone', myPhone)
 console.log('my apps', myPhone.appsInstalled)
+console.log('hi')
